@@ -26,4 +26,3 @@ wget -qO- https://raw.githubusercontent.com/DieTime/go-up/master/go-up.sh | bash
 - Works with either curl or wget on the system
 - Automatically determines the path to install a new version
 - Restores the GOPATH folder if it is inside GOROOT
-- Does not use temporary files
